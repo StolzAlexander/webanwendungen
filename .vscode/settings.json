@@ -1,0 +1,23 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.exclude": {
+    "**/.git": true,
+    "intermediate/": true,
+    "build/": true,
+    "**/node_modules/": true
+  },
+  "standard.autoFixOnSave": true,
+  "standard.enableGlobally": true,
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "standard.options": {
+    "ignore": [
+      "node_modules/**"
+    ]
+  }
+}

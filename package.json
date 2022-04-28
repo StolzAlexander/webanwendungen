@@ -1,0 +1,11 @@
+{
+  "name": "bc",
+  "version": "1.0.0",
+  "description": "bar chart",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "author": "Thomas Kretschmer",
+  "license": "MIT"
+}
